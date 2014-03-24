@@ -1,0 +1,13 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata Pribadi
+//Perintah yang dua
+
+Nama              : Muhamad Rivai
+NIM	              : 4512210006
+Alamat            : Jakarta
+Tempat Lahir      : Jakarta
+Hobby             : Sepak Bola
+Email di Github   : Muhamad Rivai
+Email connect     : muhamadrivai338@gmail.com
+
+ 
